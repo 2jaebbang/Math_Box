@@ -6,6 +6,7 @@ def subtract(a,b):
 	return a-b
 
 def multiply(a,b):
+<<<<<<< HEAD
 	return a*b
 
 <<<<<<< HEAD
@@ -22,3 +23,6 @@ def sayhello(){
 	print("hello")
 }
 >>>>>>> 7f8f56cb9eaec18a7f7045a1deacf55e6d9de546
+=======
+	return a*b
+>>>>>>> parent of 238e999... Add divide function
